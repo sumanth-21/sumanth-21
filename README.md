@@ -22,14 +22,14 @@ I'm a passionate software developer with expertise in both front-end and back-en
 
 ### TA Digital (Feb 2020 – August 2022)
 **Associate Software Developer, Hyderabad, India**
-•	Created responsive UI components with React and TailwindCSS, boosting mobile traffic and reducing bounce rates.
-•	Developed scalable web applications using Django and Django REST Framework, improving data processing efficiency.
-•	Managed AWS infrastructure (EC2, S3, VPC, CloudFront), reducing operational costs by 25% and enhancing system reliability.
-•	Implemented Git Hooks for automated code checks, enhancing code quality and reducing post-deployment bugs by 30%.
-•	Architected RESTful APIs with Next.js and Spring Boot, increasing API response speed and enhancing application performance.
-•	Streamlined content management by integrating Drupal and AEM, cutting content update times by 50%.
-•	Designed automated deployment pipelines using Docker, Jenkins, and AWS, reducing deployment time by 50% and ensuring continuous delivery.
-•	Developed complex SQL queries and integrated GraphQL for efficient data retrieval, reducing database query times by 30% and improving overall application performance.
+-	Created responsive UI components with React and TailwindCSS, boosting mobile traffic and reducing bounce rates.
+-	Developed scalable web applications using Django and Django REST Framework, improving data processing efficiency.
+-	Managed AWS infrastructure (EC2, S3, VPC, CloudFront), reducing operational costs by 25% and enhancing system reliability.
+-	Implemented Git Hooks for automated code checks, enhancing code quality and reducing post-deployment bugs by 30%.
+-	Architected RESTful APIs with Next.js and Spring Boot, increasing API response speed and enhancing application performance.
+-	Streamlined content management by integrating Drupal and AEM, cutting content update times by 50%.
+-	Designed automated deployment pipelines using Docker, Jenkins, and AWS, reducing deployment time by 50% and ensuring continuous delivery.
+-	Developed complex SQL queries and integrated GraphQL for efficient data retrieval, reducing database query times by 30% and improving overall application performance.
 
 ---
 
